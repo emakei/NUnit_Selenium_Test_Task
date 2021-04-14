@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_Selenium_Test_Task", "NUnit_Selenium_Test_Task.csproj", "{66D4DB30-5269-4091-97D5-06DF5047EE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D4DB30-5269-4091-97D5-06DF5047EE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D4DB30-5269-4091-97D5-06DF5047EE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D4DB30-5269-4091-97D5-06DF5047EE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D4DB30-5269-4091-97D5-06DF5047EE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADB0BBF-13D5-4B00-BA7D-DB7061A0B9E5}
+	EndGlobalSection
+EndGlobal
